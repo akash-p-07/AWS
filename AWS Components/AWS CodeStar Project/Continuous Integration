@@ -1,9 +1,0 @@
-Continuous Integration
-
->> AWS CodeBuild >> Select on Pipelines on left side >> Select Pipeline
-
->> Diable transition will be enabled between every stage of the Pipeline
-
->> Go to GitHub and make changes
-
->> Pipeline will be triggered
