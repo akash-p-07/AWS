@@ -1,0 +1,13 @@
+AWS Code Star
+
+>> Aws Console -> AWS CodeStar -> Create Project
+
+>> Create Service Role -> Select Python as Template
+
+>> Add Project Details -> Name - MyProject & ID
+
+>> Project Repo -> Select GitHub -> Generate connection with GitHub -> Connect to GitHub -> Authorize AWS Connector to GitHub -> Install new app & connect -> Create Project
+
+>> AWS will provision the resources for the Project -> Repo will all the req files will be created in GitHub
+
+>> MyProject -> Pipeline: Source(Application Source) ->Build(PackageExport) ->Deploy(GenerateChangeSet->ExchangeChangeSet)
