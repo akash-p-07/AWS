@@ -1,0 +1,11 @@
+Parallel Jobs
+
+>> Edit Stage -> Go to Edit Stage for Approval 
+
+>> Add Action: Add Action Name ex: Client approval
+
+>> Action provide-> manual approval-> Done
+
+>> Release Changes
+
+>> Approval permission for both the jobs will appear
